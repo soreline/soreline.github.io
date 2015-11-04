@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Soreline
 tagline:             'Pevska skupina'
-description:         'Spletna stran ženske pevske skupine Soreline.\nMade by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Smo glasbena skupina devetih deklet iz Trebnjega in bližnje okolice. Na našem pestrem glasbenem meniju najdete slovenske, tuje, ljudske, cerkvene skladbe z inštrumenti ali brez. Slišite nas lahko na poročnih in kulturnih slovesnostih, zabavah...:)'
 url:                 http://soreline.github.io/
 baseurl:             ''
 paginate:            5

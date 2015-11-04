@@ -8,6 +8,7 @@ relative_permalinks: true
 title:               Soreline
 tagline:             'Pevska skupina'
 description:         'Spletna stran ženske pevske skupine Soreline.\nMade by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://soreline.github.io/
 baseurl:             ''
 paginate:            5
 

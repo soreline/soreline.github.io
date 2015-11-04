@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Enajst edinstvenih deklet in dve stvari, ki nas povezujeta - prijateljstvo in veselje do petja. Glasbena skupina Soreline skupaj prepevamo že skoraj šest let, naš glasbeni meni pa je izredno pester, saj na njem lahko najdete skladbe za različne okuse. Vse od slovenskih, tujih, ljudskih, cerkvenih, z inštrumenti in brez. Slišite nas lahko predvsem na poročnih slovesnostih, različnih kulturnih dogodkih, rojstno-dnevnih zabavah, pohvalimo pa se lahko tudi s sodelovanjem s pevko Marto Zore.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Glasbeno skupino sestavljamo:
+* Barbara Oprčkal
+* Sonja Pekolj Poglajen
+* Valerija Jarm
+* Brigita Rogelj
+* Petra Hrvat
+* Barbara Zupančič
+* Katja Makše Vencelj
+* Maja Sušin
+* Jana Višček
+* Blažka Andolšek
+* Nuša Pajk
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Kontakt: [soreline09@gmail.com](mailto:soreline09@gmail.com) ali tel. št. 040 468 739

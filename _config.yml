@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Soreline
 tagline:             'Pevska skupina'
 description:         'Smo glasbena skupina devetih deklet iz Trebnjega in bližnje okolice. Na našem pestrem glasbenem meniju najdete slovenske, tuje, ljudske, cerkvene skladbe z inštrumenti ali brez. Slišite nas lahko na poročnih in kulturnih slovesnostih, zabavah...:)'
-url:                 ''
+url:                 http://soreline.github.io/
 baseurl:             ''
 paginate:            5
 

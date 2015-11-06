@@ -1,6 +1,6 @@
 ---
 layout: post
-published: Video test
+title: Video test
 ---
 
 ## Prose test

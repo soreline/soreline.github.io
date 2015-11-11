@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video posnetki z Janine in Aleševe poroko
+title: Video posnetki z Janine in Aleševe poroke
 ---
 
 Tukaj so že prvi video posnetki našega petja. Narejeni so bili na Zaplazu pri Čatežu, pri poročnem obredu naše članice Jane in njenega Aleša. 

@@ -645,6 +645,11 @@ a.pagination-item:hover {
   background-color: #c0392b;
 }
 
+input[type=submit] {
+  width: 20em;
+  height: 2em;
+}
+
 textarea
 {
   width:100%;

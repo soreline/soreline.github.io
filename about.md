@@ -24,7 +24,7 @@ Kontaktirate nas lahko preko [soreline09@gmail.com](mailto:soreline09@gmail.com)
 
 <form action="//formspree.io/vse.zivo3@gmail.com" method="POST">
 	<input type="hidden" name="_subject" value="soreline.github.io kontakt" />
-    <input type="email" name="_replyto" placeholder="Vaš email naslov..."><br>
+    <input class="input_mail" type="email" name="_replyto" placeholder="Vaš email naslov..."><br>
 	<textarea placeholder="Vaše sporočilo..."></textarea><br>
     <input class="btn red" type="submit" value="Pošlji!">
 	<input type="text" name="_gotcha" style="display:none" />

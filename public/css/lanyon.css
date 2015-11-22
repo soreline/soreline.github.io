@@ -644,3 +644,12 @@ a.pagination-item:hover {
 .btn.red:hover, .btn.red:focus {
   background-color: #c0392b;
 }
+
+textarea
+{
+  width:100%;
+}
+
+.input_mail {
+  width:100%;
+}

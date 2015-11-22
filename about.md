@@ -21,3 +21,12 @@ Glasbeno skupino sestavljamo:
 
 
 Kontakt: [soreline09@gmail.com](mailto:soreline09@gmail.com) ali tel. št. 040 468 739
+
+<form action="//formspree.io/vse.zivo3@gmail.com" method="POST">
+	<input type="hidden" name="_subject" value="soreline.github.io kontakt" />
+    <input type="email" name="_replyto" placeholder="Vaš email naslov..."><br>
+	<textarea placeholder="Vaše sporočilo..."></textarea><br>
+    <input type="submit" value="Pošlji!">
+	<input type="text" name="_gotcha" style="display:none" />
+	<input type="hidden" name="_next" value="//soreline.github.io/about/"/>
+</form>

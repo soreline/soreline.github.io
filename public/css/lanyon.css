@@ -656,7 +656,8 @@ textarea
 }
 
 .input_mail {
-  width:100%;
+  width:50%;
+  height:1rem;
 }
 
 ::-webkit-input-placeholder {

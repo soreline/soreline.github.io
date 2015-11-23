@@ -570,6 +570,7 @@ a.pagination-item:hover {
 
 .btn {
   position: relative;
+  font-size: 14px;
 
   display: block;
   margin: 10px auto;

@@ -649,10 +649,24 @@ input[type=email] {
   margin: 10px auto;
 }
 
-textarea
-{
+textarea {
   width:100%;
   margin: 10px auto;
+}
+
+.input_box {
+  background-color: white;
+  transition: box-shadow .2s ease;
+  border-style: solid;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.input_box:focus {
+  outline: none;
+  border-color: #ac4142;
+  box-shadow: 0 0 2px rgba(172, 65, 66,.5);
 }
 
 ::-webkit-input-placeholder {

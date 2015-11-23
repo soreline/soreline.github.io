@@ -571,7 +571,7 @@ a.pagination-item:hover {
   position: relative;
 
   display: block;
-  margin: 30px auto;
+  margin: 14px auto;
   padding: 0;
 
   overflow: hidden;
@@ -657,4 +657,25 @@ textarea
 
 .input_mail {
   width:100%;
+}
+
+::-webkit-input-placeholder {
+  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-size: .75rem;
+  font-weight: bold;
+}
+:-moz-placeholder { /* older Firefox*/
+  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+ font-size:.75rem;
+ font-weight: bold;
+}
+::-moz-placeholder { /* Firefox 19+ */ 
+  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+ font-size: .75rem;
+ font-weight: bold;
+} 
+:-ms-input-placeholder { 
+  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+ font-size: .75rem;
+ font-weight: bold;
 }

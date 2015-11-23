@@ -7,11 +7,11 @@ Kontaktirate nas lahko preko:
 
 1. emaila: [soreline09@gmail.com](mailto:soreline09@gmail.com),
 
-2. tel. št. o4o 468 739,
+2. telefona: o4o 468 739,
 
 3. facebooka: [Soreline](https://sl-si.facebook.com/Soreline-329183587170502/)
 
-ali pa uporabite spodnji obrazec. Vesele bomo vsakega komentarja ali vprašanja!
+ali pa uporabite spodnji obrazec. Vesele bomo vsakega komentarja, vprašanja ali vabila za petje!
 
 <form action="//formspree.io/vse.zivo3@gmail.com" method="POST">
 	<input type="hidden" name="_subject" value="soreline.github.io kontakt" />

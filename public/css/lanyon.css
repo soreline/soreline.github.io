@@ -661,6 +661,8 @@ textarea {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
+  border-width: 1px;
+  border-color: #ccc;
 }
 
 .input_box:focus {

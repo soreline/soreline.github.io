@@ -571,7 +571,7 @@ a.pagination-item:hover {
   position: relative;
 
   display: block;
-  margin: 14px auto;
+  margin: 10px auto;
   padding: 0;
 
   overflow: hidden;
@@ -625,16 +625,7 @@ a.pagination-item:hover {
 .btn:active:before {
   width: 120%;
   padding-top: 120%;
-  
   transition: width .5s ease-out, padding-top .5s ease-out;
-}
-
-.btn.orange {
-  background-color: #e67e22;
-}
-
-.btn.orange:hover, .btn.orange:focus {
-  background-color: #d35400;
 }
 
 .btn.red {
@@ -655,13 +646,14 @@ input[type=email] {
   height:1rem;
   height: 2em;
   line-height: 18px;
+  margin: 10px auto;
 }
 
 textarea
 {
   width:100%;
+  margin: 10px auto;
 }
-
 
 ::-webkit-input-placeholder {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;

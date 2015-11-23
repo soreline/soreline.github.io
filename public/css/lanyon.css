@@ -680,3 +680,8 @@ textarea
  font-size: .75rem;
  font-weight: bold;
 }
+
+video {
+  width: 75%    !important;
+  height: auto   !important;
+}

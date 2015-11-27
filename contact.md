@@ -19,8 +19,7 @@ Lahko pa uporabite spodnji obrazec. Vesele bomo vsakega komentarja, vprašanja a
 	<input type="hidden" name="_subject" value="soreline.github.io kontakt" />
   <input class="input_box" type="email" name="_replyto" placeholder="Vaš e-mail naslov..."><br>
 	<textarea class="input_box" name="message" rows="8" placeholder="Vaše sporočilo..."></textarea><br>
-	<button class="btn red" type="submit">Pošlji <i class="material-icons right">send</i>
-  </button>
+	<button class="btn waves-effect waves-light" type="submit">Pošlji <i class="material-icons right">send</i></button>
 	<input type="text" name="_gotcha" style="display:none" />
 	<input type="hidden" name="_next" value="//soreline.github.io/hvala/"/>
 </form>

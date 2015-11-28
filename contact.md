@@ -5,7 +5,8 @@ title: Kontakt
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-Vaš glas lahko seže do nas preko:
+<p>Vaš glas lahko seže do nas preko:</p>
+
 <ul class="kontakt">
     <li><div class="kont"><i class="material-icons md-light">mail</i></div>e-pošte: [soreline09@gmail.com](mailto:soreline09@gmail.com),</li>
     <li><div class="kont"><i class="material-icons md-light">phone</i></div>telefona: o4o 468 739 ali</li>

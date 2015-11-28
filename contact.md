@@ -8,9 +8,9 @@ title: Kontakt
 <p>Vaš glas lahko seže do nas preko:</p>
 
 <ul class="kontakt">
-    <li><div class="kont"><i class="material-icons md-light">mail</i></div>e-pošte: [soreline09@gmail.com](mailto:soreline09@gmail.com),</li>
+    <li><div class="kont"><i class="material-icons md-light">mail</i></div>e-pošte: <a href="mailto:soreline09@gmail.com">soreline09@gmail.com</a>,</li>
     <li><div class="kont"><i class="material-icons md-light">phone</i></div>telefona: o4o 468 739 ali</li>
-    <li><div class="kont"><img src="{{ site.baseurl }}/public/Facebook_XHDPI.png"  alt="facebook-icon" width="18" height="18"></img></div> facebooka: [Soreline](https://sl-si.facebook.com/Soreline-329183587170502/).</li>
+    <li><div class="kont"><img src="{{ site.baseurl }}/public/Facebook_XHDPI.png"  alt="facebook-icon" width="18" height="18"></img></div> facebooka: <a href="https://sl-si.facebook.com/Soreline-329183587170502/">Soreline</a>.</li>
 </ul>
 
 Lahko pa uporabite spodnji obrazec. Vesele bomo vsakega komentarja, vprašanja ali vabila za petje!

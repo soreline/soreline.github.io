@@ -3,17 +3,16 @@ layout: page
 title: Kontakt
 ---
 
-Vaš glas lahko seže do nas preko: 
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-1. e-pošte: [soreline09@gmail.com](mailto:soreline09@gmail.com),
-
-2. telefona: o4o 468 739 ali 
-
-3. facebooka: [Soreline](https://sl-si.facebook.com/Soreline-329183587170502/).
+Vaš glas lahko seže do nas preko:
+<ul class="kontakt">
+    <li><div class="kont"><i class="material-icons md-light">mail</i></div>e-pošte: [soreline09@gmail.com](mailto:soreline09@gmail.com),</li>
+    <li><div class="kont"><i class="material-icons md-light">phone</i></div>telefona: o4o 468 739 ali</li>
+    <li><div class="kont"><img src="{{ site.baseurl }}/public/Facebook_XHDPI.png"  alt="facebook-icon" width="18" height="18"></img></div> facebooka: [Soreline](https://sl-si.facebook.com/Soreline-329183587170502/).</li>
+</ul>
 
 Lahko pa uporabite spodnji obrazec. Vesele bomo vsakega komentarja, vprašanja ali vabila za petje!
-
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       
 <form action="//formspree.io/vse.zivo3@gmail.com" method="POST">
 	<input type="hidden" name="_subject" value="soreline.github.io kontakt" />

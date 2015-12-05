@@ -732,8 +732,10 @@ margin: 20px 0;
     color: rgba(255, 255, 255, 1);
     font-size:18px;}
 
-table.table-about {
+.table-about {
   border:none;
   width:100%;
   border-collapse: collapse;
+  background-color: #ffffff;
+  text-align:center;
 }

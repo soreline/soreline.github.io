@@ -741,12 +741,17 @@ margin: 20px 0;
 }
 
 .img-middle {
+  width:100%;
   text-align:center;
   margin-left:auto;
   margin-right:auto;
 }
 
 tr {
+  background-color: #ffffff;
+}
+
+td {
   background-color: #ffffff;
 }
 

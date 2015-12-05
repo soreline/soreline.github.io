@@ -7,7 +7,7 @@ Enajst edinstvenih deklet in dve stvari, ki nas povezujeta - prijateljstvo in ve
 
 Glasbeno skupino sestavljamo:
 
-<table>
+<table class="table-about">
   <tr>
     <td><img src="{{ site.baseurl }}/public/slike/barbara_g_p.jpg" alt="Barbara Oprčkal (slika)" width="80"> Barbara Oprčkal</td>
     <td><img src="{{ site.baseurl }}/public/slike/sonja_p.jpg" alt="Sonja Pekolj Poglajen (slika)" width="80"> Sonja Pekolj Poglajen</td>

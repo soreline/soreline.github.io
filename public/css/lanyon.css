@@ -731,3 +731,7 @@ margin: 20px 0;
 .material-icons.md-light {
     color: rgba(255, 255, 255, 1);
     font-size:18px;}
+
+table.table-about {
+  border:0;
+}

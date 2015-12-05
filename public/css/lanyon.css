@@ -738,6 +738,7 @@ margin: 20px 0;
   border-collapse: collapse;
   background-color: #ffffff;
   text-align:center;
+  cell-spacing: 2px;
 }
 
 .img-middle {

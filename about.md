@@ -7,8 +7,10 @@ Enajst edinstvenih deklet in dve stvari, ki nas povezujeta - prijateljstvo in ve
 
 Glasbeno skupino sestavljamo:
 
-<img src="{{ site.baseurl }}/public/slike/barbara_g_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Barbara Oprčkal
-
+<div>
+<img src="{{ site.baseurl }}/public/slike/barbara_g_p.jpg" alt="Barbara Oprčkal" height="42" width="42" style="vertical-align:middle">
+<span>Barbara Oprčkal</span>
+</div>
 
 <img src="{{ site.baseurl }}/public/slike/sonja_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Sonja Pekolj Poglajen
 
@@ -34,8 +36,8 @@ Glasbeno skupino sestavljamo:
 <img src="{{ site.baseurl }}/public/slike/jana_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Jana Višček
 
 
-<img src="{{ site.baseurl }}/public/slike/blazka_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Blažka Andolšek
+<img src="{{ site.baseurl }}/public/slike/blazka_p.png" alt="Barbara Oprčkal" height="42" width="42"> Blažka Andolšek
 
 
-<img src="{{ site.baseurl }}/public/slike/nusa_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Nuša Pajk
+<img src="{{ site.baseurl }}/public/slike/nusa_p.png" alt="Barbara Oprčkal" height="42" width="42"> Nuša Pajk
 

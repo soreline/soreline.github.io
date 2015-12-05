@@ -15,7 +15,7 @@ Glasbeno skupino sestavljamo:
 
   <tr>
     <td><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/valerija_p.jpg" alt="Valerija Jarm (slika)" width="80"></div> Valerija Jarm</td>
-    <td><div> class='img-middle'<img src="{{ site.baseurl }}/public/slike/brigita_p.jpg" alt="Brigita Rogelj (slika)" width="80"></div> Brigita Rogelj</td>
+    <td><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/brigita_p.jpg" alt="Brigita Rogelj (slika)" width="80"></div> Brigita Rogelj</td>
   </tr>
 
   <tr>

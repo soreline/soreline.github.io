@@ -733,5 +733,7 @@ margin: 20px 0;
     font-size:18px;}
 
 table.table-about {
-  border:0;
+  border:none;
+  width:100%;
+  border-collapse: collapse;
 }

@@ -7,14 +7,35 @@ Enajst edinstvenih deklet in dve stvari, ki nas povezujeta - prijateljstvo in ve
 
 Glasbeno skupino sestavljamo:
 
-* Barbara Oprčkal
-* Sonja Pekolj Poglajen
-* Valerija Jarm
-* Brigita Rogelj
-* Petra Hrvat
-* Barbara Zupančič
-* Katja Makše Vencelj
-* Maja Sušin
-* Jana Višček
-* Blažka Andolšek
-* Nuša Pajk
+<img src="{{ site.baseurl }}/public/slike/barbara_g_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Barbara Oprčkal
+
+
+<img src="{{ site.baseurl }}/public/slike/sonja_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Sonja Pekolj Poglajen
+
+
+<img src="{{ site.baseurl }}/public/slike/valerija_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Valerija Jarm
+
+
+<img src="{{ site.baseurl }}/public/slike/brigita_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Brigita Rogelj
+
+
+<img src="{{ site.baseurl }}/public/slike/petra_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Petra Hrvat
+
+
+<img src="{{ site.baseurl }}/public/slike/barbara_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Barbara Zupančič
+
+
+<img src="{{ site.baseurl }}/public/slike/katja_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Katja Makše Vencelj
+
+
+<img src="{{ site.baseurl }}/public/slike/maja_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Maja Sušin
+
+
+<img src="{{ site.baseurl }}/public/slike/jana_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Jana Višček
+
+
+<img src="{{ site.baseurl }}/public/slike/blazka_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Blažka Andolšek
+
+
+<img src="{{ site.baseurl }}/public/slike/nusa_p.jpg" alt="Barbara Oprčkal" height="42" width="42"> Nuša Pajk
+

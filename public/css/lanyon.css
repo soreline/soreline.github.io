@@ -745,6 +745,7 @@ margin: 20px 0;
 }
 
 .img-middle {
+  padding-top:20px;
   width:100%;
   text-align:center;
   margin-left:auto;
@@ -755,7 +756,6 @@ margin: 20px 0;
 td {
   background-color: #ffffff;
   text-align: center;
-  padding-top: 30px;
 }
 
 td:hover{

@@ -746,6 +746,10 @@ margin: 20px 0;
   text-align: center;
 }
 
+.about-wrapper {
+  width: 100%;
+}
+
 .about-wrapper img {
   display: inline;
   margin: 1rem 0 1rem;

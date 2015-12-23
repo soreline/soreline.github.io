@@ -745,6 +745,11 @@ margin: 20px 0;
   width: 360px;
   text-align: center;
 }
+
+.about-wrapper img {
+  display: inline;
+  margin: 1rem 0 1rem;
+}
 /**
 .vizitka > img {
   width: 80px;

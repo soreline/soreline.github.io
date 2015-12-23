@@ -7,33 +7,24 @@ Enajst edinstvenih deklet in dve stvari, ki nas povezujeta - prijateljstvo in ve
 
 Glasbeno skupino sestavljamo:
 
-<table class="table-about">
-  <tr>
-    <td><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/barbara_g_p.jpg" alt="Barbara Oprčkal (slika)" width="80"></div> Barbara Oprčkal</td>
-    <td><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/sonja_p.jpg" alt="Sonja Pekolj Poglajen (slika)" width="80"></div> Sonja Pekolj Poglajen</td>
-  </tr>
+<div class='vizitka'><img src="{{ site.baseurl }}/public/slike/barbara_g_p.jpg" alt="Barbara Oprčkal (slika)" width="80"><br/>Barbara Oprčkal</div>
 
-  <tr>
-    <td><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/valerija_p.jpg" alt="Valerija Jarm (slika)" width="80"></div> Valerija Jarm</td>
-    <td><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/brigita_p.jpg" alt="Brigita Rogelj (slika)" width="80"></div> Brigita Rogelj</td>
-  </tr>
+<div class='vizitka'><img src="{{ site.baseurl }}/public/slike/sonja_p.jpg" alt="Sonja Pekolj Poglajen (slika)" width="80"><br/>Sonja Pekolj Poglajen</div>
 
-  <tr>
-    <td><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/petra_p.jpg" alt="Petra Hrvat (slika)" width="80"></div> Petra Hrvat</td>
-    <td><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/barbara_p.jpg" alt="Barbara Zupančič (slika)" width="80"></div> Barbara Zupančič</td>
-  </tr>
+<div class='vizitka'><img src="{{ site.baseurl }}/public/slike/valerija_p.jpg" alt="Valerija Jarm (slika)" width="80"><br/>Valerija Jarm</div>
 
-  <tr>
-    <td><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/katja_p.jpg" alt="Katja Makše Vencelj (slika)" width="80"></div> Katja Makše Vencelj</td>
-    <td><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/maja_p.jpg" alt="Maja Sušin (slika)" width="80"></div> Maja Sušin</td>
-  </tr>
+<div class='vizitka'><img src="{{ site.baseurl }}/public/slike/brigita_p.jpg" alt="Brigita Rogelj (slika)" width="80"><br/>Brigita Rogelj</div>
 
-  <tr>
-    <td><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/jana_p.jpg" alt="Jana Višček (slika)" width="88"></div> Jana Višček</td>
-    <td><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/blazka_p.png" alt="Blažka Andolšek (slika)" width="80"></div> Blažka Andolšek</td>
-  </tr>
+<div class='vizitka'><img src="{{ site.baseurl }}/public/slike/petra_p.jpg" alt="Petra Hrvat (slika)" width="80"><br/>Petra Hrvat</div>
 
-  <tr>
-    <td colspan="2"><div class='img-middle'><img src="{{ site.baseurl }}/public/slike/nusa_p.png" alt="Nuša Pajk (slika)" width="80"></div> Nuša Pajk</td>
-  </tr>
-</table>
+<div class='vizitka'><img src="{{ site.baseurl }}/public/slike/barbara_p.jpg" alt="Barbara Zupančič (slika)" width="80"><br/>Barbara Zupančič</div>
+
+<div class='vizitka'><img src="{{ site.baseurl }}/public/slike/katja_p.jpg" alt="Katja Makše Vencelj (slika)" width="80"><br/>Katja Makše Vencelj</div>
+
+<div class='vizitka'><img src="{{ site.baseurl }}/public/slike/maja_p.jpg" alt="Maja Sušin (slika)" width="80"><br/>Maja Sušin</div> 
+
+<div class='vizitka'><img src="{{ site.baseurl }}/public/slike/jana_p.jpg" alt="Jana Višček (slika)" width="88"><br/>Jana Višček</div>
+
+<div class='vizitka'><img src="{{ site.baseurl }}/public/slike/blazka_p.png" alt="Blažka Andolšek (slika)" width="80"><br/>Blažka Andolšek</div>
+
+<div class='vizitka'><img src="{{ site.baseurl }}/public/slike/nusa_p.png" alt="Nuša Pajk (slika)" width="80"><br/>Nuša Pajk</div>

@@ -28,3 +28,4 @@ Glasbeno skupino sestavljamo:
 <div class='vizitka'><img src="{{ site.baseurl }}/public/slike/blazka_p.png" alt="Blažka Andolšek (slika)" width="80"><br/>Blažka Andolšek</div>
 
 <div class='vizitka'><img src="{{ site.baseurl }}/public/slike/nusa_p.png" alt="Nuša Pajk (slika)" width="80"><br/>Nuša Pajk</div>
+<div class="cf"></div>

@@ -735,20 +735,24 @@ margin: 20px 0;
 /* 
 * vizitka about
 */
+/* 
 .wrapper {
   width: 300px;
 }
+*/
 .vizitka {
   float: left;
-  width: 150px;
+  width: 50%;
+  text-align: center;
 }
+/**
 .vizitka > img {
-  width: 130px;
+  width: 80px;
 }
 .vizitka > .name {
   width: 130px;
-  text-align: center;
 }
+*/
 
 
 /**

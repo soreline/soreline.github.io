@@ -610,12 +610,12 @@ textarea {
  font-size:.75rem;
  font-weight: bold;
 }
-::-moz-placeholder { /* Firefox 19+ */ 
+::-moz-placeholder { /* Firefox 19+ */
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
  font-size: .75rem;
  font-weight: bold;
-} 
-:-ms-input-placeholder { 
+}
+:-ms-input-placeholder {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
  font-size: .75rem;
  font-weight: bold;
@@ -731,15 +731,7 @@ margin: 20px 0;
 .material-icons.md-light {
     color: rgba(255, 255, 255, 1);
     font-size:18px;}
-    
-/* 
-* vizitka about
-*/
-/* 
-.wrapper {
-  width: 300px;
-}
-*/
+
 .vizitka {
   float: left;
   width: 240px;
@@ -756,16 +748,6 @@ margin: 20px 0;
   width: 80px;
   height: 110px;
 }
-
-/**
-.vizitka > img {
-  width: 80px;
-}
-.vizitka > .name {
-  width: 130px;
-}
-*/
-
 
 /**
  * For modern browsers
